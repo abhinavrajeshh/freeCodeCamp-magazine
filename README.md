@@ -36,9 +36,6 @@ magazine-project/
 - [FontAwesome](https://fontawesome.com/) for social media icons.
 - [Google Fonts](https://fonts.google.com/) for typography resources.
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 
 
