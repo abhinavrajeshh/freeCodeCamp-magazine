@@ -3,7 +3,7 @@
 ## Overview
 This project is a responsive magazine article built using HTML and CSS Grid. It was created as part of the **FreeCodeCamp Responsive Web Design Certification**, specifically the "Learn CSS Grid by Building a Magazine" module. The project demonstrates the use of CSS Grid to structure a well-designed, accessible, and visually appealing magazine layout.
 
-#Live-Link : (https://abhinavrajeshh.github.io/freeCodeCamp-magazine/)
+[Live link](https://abhinavrajeshh.github.io/freeCodeCamp-magazine/)
 
 ## Features
 - **CSS Grid Layout:** Utilizes CSS Grid to create a structured and responsive magazine article.
